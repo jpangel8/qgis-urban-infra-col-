@@ -1,0 +1,13 @@
+[general]
+name=Urban Infrastructure Colombia
+qgisMinimumVersion=3.16
+description=Plugin for urban service network analysis, infrastructure visualization and road asset management in Colombian municipalities
+version=1.0.0
+author=jpangel8
+about=Tools for Colombian public sector engineers to analyze urban service networks, visualize critical infrastructure and manage road assets under INVIAS standards.
+tracker=https://github.com/jpangel8/qgis-urban-infra-col/issues
+repository=https://github.com/jpangel8/qgis-urban-infra-col
+tags=urban,infrastructure,colombia,bim,gis,roads,networks,assets
+category=Plugins
+experimental=False
+deprecated=False
